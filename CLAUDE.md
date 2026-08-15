@@ -5,9 +5,9 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
-**Field:** [YOUR FIELD — Economics by default. Can be adapted to Finance, Accounting, Marketing, etc.]
+**Project:** AI-Washing — Corporate AI Claims, Consumer Products, and Capital Market Consequences
+**Institution:** BI Norwegian Business School
+**Field:** Marketing / Consumer Behavior (interdisciplinary with Finance & Accounting methods; text-as-data + market-reaction design)
 **Branch:** main
 
 ---
@@ -134,7 +134,7 @@ Output organization: by-script
 
 | Component | File | Status | Description |
 |-----------|------|--------|-------------|
-| Paper | `paper/main.tex` | [draft/submitted/R&R] | [Brief description] |
-| Data | `scripts/R/` | [complete/in-progress] | [Analysis description] |
-| Replication | `paper/replication/` | [not started/ready] | [Deposit status] |
-| Job Market Talk | `paper/talks/job_market_talk.tex` | -- | [Status] |
+| Paper | `paper/main.tex` | not started | AI-washing: measuring the gap between firms' AI marketing claims and actual AI capability, and its consumer/market consequences |
+| Data | `scripts/R/` | not started | Planned: product/marketing claim text, SEC filings & press releases, patent/hiring-based AI capability proxies, CRSP/Compustat market data |
+| Replication | `paper/replication/` | not started | -- |
+| Job Market Talk | `paper/talks/job_market_talk.tex` | -- | not started |
