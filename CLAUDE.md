@@ -12,6 +12,14 @@
 
 ---
 
+## Language Preferences
+
+- **Conversation:** All interaction with the user — explanations, discussion, questions, progress reports — in Chinese (中文).
+- **Research deliverables:** All research outputs — paper body, code comments, figure/table captions, references, formal reports, presentations — in idiomatic, professional academic American English, matching the conventions of the target journals (JF/JFE/RFS, etc.).
+- **In short:** process communication in Chinese; deliverables in English.
+
+---
+
 ## Core Principles
 
 - **Plan first** -- enter plan mode before non-trivial tasks; save plans to `quality_reports/plans/`
